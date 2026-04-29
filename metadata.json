@@ -1,0 +1,5 @@
+{
+  "name": "WinDice Desktop",
+  "description": "A virtual Windows desktop environment featuring a dice rolling game.",
+  "requestFramePermissions": []
+}
